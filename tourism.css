@@ -1,0 +1,94 @@
+.tourism-card{
+	background-color: white;
+	text-align:center;
+	color:grey;
+    border-top-left-radius:25px;
+    border-top-right-radius:25px; 
+    padding:30px;
+}
+.bg-container{
+	background-image: url("https://www.thewowstyle.com/wp-content/uploads/2015/01/nature-images..jpg");
+	background-size: cover;
+    height:100vh;
+
+}
+.main-heading{
+	color:blue;
+}
+.paragraph{
+	color:grey;
+}
+.button{
+	height:36px;
+	width:138px;
+	background-color: #25b1cc;
+	color:white;
+	border-radius: 20px;
+	border-width: 0px;
+}
+.favourite-places-bg-container{
+     background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/towerbg.png");
+     background-size: cover;
+     height:100vh;
+}
+.favourite-places-heading{
+	color:white;
+	font-size:28px;
+	font-family:"roboto";
+	font-weight: bold;
+	padding:24px;
+}
+.favourite-place-card-heading{
+	font-family:"roboto";
+	font-weight:28px ;
+	font-size:23px;
+	color:0f0e46;
+
+}
+.favourite-place-card-description{
+	font-size: 13px;
+	font-family: "roboto";
+	color:6c6b70;
+}
+.favourite-place-card-container{
+	padding:16px;
+	background-color: white;
+	border-radius:8px;
+	margin:15px;
+}
+.favourite-place-card-image{
+    width: 80px;
+    height: 100px;
+}
+.detailed-view-bg-container{
+	background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/seabg.png");
+	background-size: cover;
+	height: 100vh;
+	margin:60px;
+}
+.detailed-view-heading{
+	color:white;
+	font-family:"roboto";
+	font-weight:bold;
+	font-size:28px;
+	padding:24px;
+}
+.detailed-view-card-container{
+	border-bottom-right-radius: 8px;
+	border-bottom-left-radius: 8px;
+	background-color: white;
+	margin:24px;
+}
+.deatiled-view-text-container{
+	padding:16px;
+}
+.detailed-view-card-description{
+	font-family: "roboto";
+	font-size: 13px;
+}
+.detailed-view-card-heading{
+	font-size: 23px;
+	font-family:"roboto";
+	font-weight: bold;
+	color:0f0e46;
+}

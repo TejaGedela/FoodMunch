@@ -1,0 +1,21 @@
+.bg-container{
+	height:100vh;
+	background-color: #f1f5f8;
+}
+.counter-heading{
+	font-size:50px;
+	font-weight: 800;
+	color:"roboto";
+}
+.counter-value{
+	font-size: 73px;
+	font-weight: 900;
+}
+.button{
+	background-color: #f1f5f8;
+	border-width: 2px;
+	border-color: black;
+	border-radius:7px;
+	margin:8px;
+	padding:5px; 
+}

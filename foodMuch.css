@@ -1,0 +1,234 @@
+.food-Much-logo{
+	height: 70px;
+	width:80px;
+}
+#navItem1{
+    color:#343f4b;
+    font family:"roboto";
+}
+#navItem2{
+    color:#343f4b;
+    font family:"roboto";
+}
+#navItem3{
+    color:#343f4b;
+    font family:"roboto";
+}
+#navItem4{
+    color:#343f4b;
+    font family:"roboto";
+}
+.banner-section-bg-container{
+	background-size: cover;
+	height: 100vh;
+	background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png");
+}
+.banner-heading{
+	color:white;
+	font-family:"roboto";
+	font-size:45px;
+	font-weight:300px;
+}
+.banner-caption{
+	color:#f5f7fa;
+	font-family:"roboto";
+	font-size:24px;
+	font-weight:300px;
+}
+.custom-button{
+	width:130px;
+	height:45px;
+	color:white;
+	background-color:#d0b200;
+	border-radius:8px ;
+	border-width:0;
+	margin-right:10px;
+}
+.custom-outline-button{
+	width:130px;
+	height:45px;
+	color:#d0b200;
+	border-color:#d0b200;
+	border-radius:8px ;
+	border-width:1px;
+	border-style: solid;
+	background-color: transparent;
+}
+.wcu-section{
+	background-color: #f9fbfe;
+}
+.wcu-section-heading{
+	font-family:"roboto" ;
+	font-size: 28px;
+	font-weight: 700;
+	color:#183b56;
+}
+.wcu-section-description{
+	font-family: "roboto";
+	font-size:16px;
+	color:#5a7184;
+}
+.wcu-card{
+	background-color: white;
+	text-align:center;
+	border-style: solid;
+	border-color: #e5eaf4;
+	border-width: 1px;
+	border-radius:16px;
+}
+.wcu-card-image{
+	width: :87px;
+	height:90px;
+}
+.wcu-card-title{
+	font-family:"roboto";
+	font-size: 22px;
+	font-weight: 500;
+	color:#323f4b;
+}
+.wcu-card-description{
+	font-family: "roboto";
+	font-size: 16px;
+	color:#7b8794;
+}
+.offers{
+	color:#323f0b;
+}
+.explore-menu-section{
+	background-color: white;
+
+}
+.menu-section-heading{
+	font-weight:700;
+	font-size: 28px;
+	font-family: "roboto";
+	color:#183b56;
+}
+.menu-item-image{
+	border-radius:16px;
+	width:290;
+	height:304;
+}
+.menu-card-title{
+	font-family:"roboto";
+	font-weight:500;
+	color:#323f4b;
+	margin-top:24px;
+}
+.menu-item-link{
+	font-family: "roboto";
+	font-weight: 500;
+	font-size:18px;
+	color:#d0b200;
+}
+.menu-item-card{
+	border-radius:16px;
+}
+.healthy-food-section-image{
+	width: 270px;
+}
+.healthy-food-section-heading{
+	font-family: "roboto";
+	font-size: 28px;
+	font-weight:700;
+	color:#183b56;
+}
+.healthy-food-section-description{
+	font-family: "roboto";
+	font-size: 16px;
+	color:#5a7184;
+
+}
+.custom-button{
+	color:white;
+	background-color: #d0b200;
+	width:130px;
+	height:45px;
+	border-width:0;
+	border-radius:8px;
+	margin-right: 10px;
+}
+.delivery-and-payment-section-image{
+	width:270px;
+}
+.delivery-and-payment-section-heading{
+	font-family: "roboto";
+	font-size:28px;
+	font-weight: 700;
+	color:#183b56;
+}
+
+.delivery-and-payment-section-description{
+	font-family:"roboto";
+    color:#587184;
+    font-size:15px;
+}
+.payment-card-image{
+	width:50px;
+	height:50px;
+	margin-right:28px;
+}
+.thanking-customer-section-heading{
+	font-family: "roboto";
+	font-size: 23px;
+	font-weight: 700;
+	color:#183b56;
+}
+.thanking-customer-section-description{
+    font-family: "roboto";
+	font-size: 16px;
+	color: #587184;
+}
+.thanking-customer-section-image{
+	width: 270px;
+	margin-bottom: 20px
+}
+.thanking-customer-section{
+	background-color:#d0b2001a;
+	background-image: radial-gradient(#fff8db, #fae38c);
+}
+.follow-us-section-heading{
+	font-family:"roboto";
+	font-size:28px;
+	font-weight:700;
+	color:#183b56;
+	text-align:center;
+}
+.follow-us-icon-container{
+	background-color: #faf7e8;
+	width:80px;
+	height:80px;
+	border-radius:40px;
+	margin: 15px;
+	padding-top: 22px;
+	padding-bottom: 14px;
+	padding-right: 16px;
+	padding-left:22px;
+}
+.icon{
+	color:#d0b200;
+	font-size: 35px;
+}
+.foodmuch-logo{
+	width: 80px;
+	height: 70px;
+}
+.footer-section-mailid{
+	font-family: "roboto";
+	font-weight: bold;
+	color:#959ead;
+	font-size:15px;
+	margin-top: 20px;
+}
+.footer-section-address{
+	color:#959ead;
+	font-size:14px;
+	font-family: "roboto";
+}
+.footer-section{
+	background-color:#0d2436;
+}
+.thanking-customer-section-modal-title{
+	color:#d0b200;
+	font-weight:800;
+}
